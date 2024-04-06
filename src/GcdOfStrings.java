@@ -1,5 +1,3 @@
-package leetcode;
-
 public class GcdOfStrings {
 	public static void main(String[] args) {
 		String  a = "LEET", b = "CODE";
